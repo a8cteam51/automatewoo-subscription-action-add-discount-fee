@@ -1,3 +1,6 @@
+| :exclamation:  This is a public repository |
+|--------------------------------------------|
+
 # AutomateWoo Subscription Action - Add Discount or Fee
 
 Extends the functionality of AutomateWoo with a custom action which allows you to add a discount or a fee as a line item.
@@ -16,4 +19,7 @@ Any fee added will not be treated as a taxable item. If you need that functional
 
 ## Support
 
-This plugin is provided without any support or guarantees of functionality. If you'd like to contribute, feel free to open a PR on this repo. Please test thoroughly before deploying to a production site.
+This plugin is provided without any support or guarantees of functionality. If you'd like to contribute, feel free to open a PR on this repo. If you have a request, please open an issue.
+
+> [!WARNING]  
+> Please test thoroughly before deploying to a production site.
