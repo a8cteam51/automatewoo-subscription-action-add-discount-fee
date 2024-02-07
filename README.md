@@ -12,6 +12,7 @@ Any fee added will not be treated as a taxable item. If you need that functional
 **Note:** due to the nature of how actions are scheduled, this won't work to provide discounts at initial checkout. For that, please use a coupon or other solution.
 
 ![Screenshot](screenshot.png)
+![Screenshot2](screenshot2.png)
 
 ## Support
 
